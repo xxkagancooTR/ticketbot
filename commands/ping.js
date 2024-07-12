@@ -7,7 +7,7 @@ const fetch = require('node-fetch');
 const emojis = require("../emojis.json")
 module.exports = {
   name: "ping",
-  description: "İlan sorgu!",
+  description: "Pong!",
   type: 1,
   options: [],
 
