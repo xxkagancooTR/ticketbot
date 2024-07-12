@@ -1,0 +1,15 @@
+{
+    "owner": "botowner",
+    "seskanali": "botungirecegiseskanalı",
+    "mysql": {
+        "user": "root",
+        "host": "localhost",
+        "database": "ticketbot"
+    },
+    "ticket": {
+        "parent": "ticketinaçılıcağıkategori",
+        "support": "ticketyetkilisi",
+        "delete": "ticketsilmeyetkisi",
+        "log": "ticketlogu"
+    }
+}

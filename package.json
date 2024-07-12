@@ -1,0 +1,21 @@
+{
+  "name": "shopier",
+  "version": "0.0.3",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "npx nodemon"
+  },
+  "author": "xxkagancooTR",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.1",
+    "@discordjs/voice": "^0.16.0",
+    "child_process": "^1.0.2",
+    "discord-html-transcripts": "^3.2.0",
+    "discord-player": "^6.1.1",
+    "discord.js": "^14.9.0",
+    "mysql": "^2.18.1"
+  }
+}
